@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 # Russell-Javier-Machaca-Sucaticona
 trabajo de pensamiento computacional
 <html lang="es">
@@ -44,4 +43,3 @@ trabajo de pensamiento computacional
         <li><a href="https://leslyegonza.github.io/LeslyeMilagrosGonzaRamos/">Leslye Gonza</a></li>
     </ul>
 </body>
-</html>
