@@ -38,8 +38,9 @@ trabajo de pensamiento computacional
     </ul>
     <h2>Compañeros de clase</h2>
     <ul>
-        <li><a href="enlace-a-la-página-del-compañero1.html">Nombre de tu compañero 1</a></li>
+        <li><a href="https://liz-canaza.github.io/LizCanazaMachaca.github.io/">Liz Canaza</a></li>
         <li><a href="https://rosarioapaza.github.io/rosarioleandraapazamamani/">rosario apaza</a></li>
         <li><a href="https://leslyegonza.github.io/LeslyeMilagrosGonzaRamos/">Leslye Gonza</a></li>
+        <li><a href="https://marimezapino.github.io/MarianaGabrielaMezaPino/">Mariana Meza</a></li>
     </ul>
 </body>
